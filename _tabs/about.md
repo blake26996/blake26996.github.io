@@ -14,6 +14,6 @@ I currently work in customs brokerage, clearing shipments according to strict cu
 - **Projects** I build for fun as I learn. 
 
 ## Contact
-- **Linkedin:** www.linkedin.com/in/blake-arnoult
-- **Email:** blakearnoult72@gmail.com
+- **Linkedin:** [linkedin.com/in/blake-arnoult](https://www.linkedin.com/in/blake-arnoult)
+- **Email:** [blakearnoult72@gmail.com](mailto:blakearnoult72@gmail.com)
 
